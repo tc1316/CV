@@ -7,7 +7,7 @@ Incoming student at Makers academy. Recent graduate of biochemistry/biotechnolog
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **placeholder**            | A webapp to do x. | React, Jest, etc. |
+| **placeholder**              | A webapp to do x. | React, Jest, etc. |
 
 ## Work Experience
 
@@ -61,6 +61,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - GCSEs | _6 x A* & 4 x A (incl. Maths & Eng)_
 
 ## Hobbies
-
-Piano
-DOTA 2
+- Piano
+- DOTA 2

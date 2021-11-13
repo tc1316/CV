@@ -1,25 +1,29 @@
-## Your Name
+## Titus Chang
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Incoming student at Makers academy. Recent graduate of biochemistry/biotechnology plus management from Imperial College London, with experience in Ruby/Python. Excited to learn JS and C++. 
+
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **placeholder**            | A webapp to do x. | React, Jest, etc. |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Suade Labs** (March 2021 - November 2021)  
+_Support Engineer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Solved product-related queries/issues in a timely
+manner, ranging from data mapping, system errors, regulatory
+questions and user feedback
+- Acted as a conduit between clients and engineering/
+development team by understanding and relaying unique
+client requests to the appropriate stakeholders
+- Deliver production code in a timely and successful manner
+as per client deadlines and business objectives
+- Contribute and communicate technical knowledge to businessside
+clients during consultations and presentations
 
 ## Skills
 
@@ -35,14 +39,7 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
+#### Skill Placeholder
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
@@ -62,16 +59,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Imperial College London / Imperial College Business School (October 2016 - July 2020)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+BSc Hons in Biochemistry with a Year in Management | Obtained 2.1
+- Awarded ICBS Prize for the Best Group Project on the Joint Honours programme titled ’An investigation into the drivers and performance of PE as an asset class and the status of ESG incorporation in industry’
 
-#### Any other qualifications
+#### St Olave's Grammar School (September 2009 - August 2016)
 
-That in some arguable way make you a better software developer or well-rounded person
+A levels | _ A*AAB in Biology, Chemistry, Maths, Further Maths _ 
+GCSEs | _ 6 x A* & 4 x A (incl. Maths & Eng) _
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Piano
+DOTA 2

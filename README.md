@@ -65,9 +65,8 @@ BSc Hons in Biochemistry with a Year in Management | Obtained 2.1
 - Awarded ICBS Prize for the Best Group Project on the Joint Honours programme titled ’An investigation into the drivers and performance of PE as an asset class and the status of ESG incorporation in industry’
 
 #### St Olave's Grammar School (September 2009 - August 2016)
-
-A levels | _A*AAB in Biology, Chemistry, Maths, Further Maths_ 
-GCSEs | _6 x A* & 4 x A (incl. Maths & Eng)_
+- A levels | _A*AAB in Biology, Chemistry, Maths, Further Maths_ 
+- GCSEs | _6 x A* & 4 x A (incl. Maths & Eng)_
 
 ## Hobbies
 

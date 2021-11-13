@@ -66,8 +66,8 @@ BSc Hons in Biochemistry with a Year in Management | Obtained 2.1
 
 #### St Olave's Grammar School (September 2009 - August 2016)
 
-A levels | _ A*AAB in Biology, Chemistry, Maths, Further Maths _ 
-GCSEs | _ 6 x A* & 4 x A (incl. Maths & Eng) _
+A levels | _A*AAB in Biology, Chemistry, Maths, Further Maths_ 
+GCSEs | _6 x A* & 4 x A (incl. Maths & Eng)_
 
 ## Hobbies
 

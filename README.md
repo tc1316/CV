@@ -50,18 +50,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (placeholder)
 
 #### Imperial College London / Imperial College Business School (October 2016 - July 2020)
-
-BSc Hons in Biochemistry with a Year in Management | Obtained 2.1
+- BSc Hons in Biochemistry with a Year in Management | Obtained 2.1
 - Awarded ICBS Prize for the Best Group Project on the Joint Honours programme titled ’An investigation into the drivers and performance of PE as an asset class and the status of ESG incorporation in industry’
 
 #### St Olave's Grammar School (September 2009 - August 2016)

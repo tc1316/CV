@@ -2,13 +2,14 @@
 
 Aspiring junior developer, looking for an opportunity to learn, develop and apply my software development skills
 - Recently enrolled in Makers academy. Graduated from Imperial College London with a BSc Hons in Biochemistry/Biotechnology with Management. 
-- Competency and experience in JS, Ruby, Python.
+- Competency in JS, Ruby and Python
 - Trying to learn C++
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        | Source code
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
+| **Crosswordle** | Wordle inspired crossword puzzle | Python, React-JSX, Heroku | [Github](https://github.com/jessgordon/crosswordle)
 | **Acebook**     | Facebook clone | Ruby-on-Rails, RSpec-Capybara, PostgreSQL/Active Record, Travis-CI, Heroku | [Github](https://github.com/msc49/acebook-rails-template-simple) |
 | **News Summary**| SPA to show Guardian headlines | Vanilla JS, no frameworks | [Github](https://github.com/tc1316/news-summary-challenge) |
 | **MakersBnB**| AirBnb clone | Ruby, Sinatra, RSpec-Capybara, PostgreSQL | [Github](https://github.com/tc1316/news-summary-challenge) |
@@ -29,11 +30,12 @@ as per client deadlines and business objectives
 clients during consultations and presentations
 
 
-## Skills
+<!-- ## Skills
+ -->
+## Languages
+- Fluent English and Mandarin speaking
 
-### Languages: Fluent English and Mandarin speaking
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+<!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
@@ -52,7 +54,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## Education
 
@@ -74,3 +76,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies
 - Piano
+- DOTA 2

@@ -12,7 +12,7 @@ Aspiring junior developer, looking for an opportunity to learn, develop and appl
 | **Crosswordle** | Wordle inspired crossword puzzle | Python, React-JSX, Heroku | [Github](https://github.com/jessgordon/crosswordle)
 | **Acebook**     | Facebook clone | Ruby-on-Rails, RSpec-Capybara, PostgreSQL/Active Record, Travis-CI, Heroku | [Github](https://github.com/msc49/acebook-rails-template-simple) |
 | **News Summary**| SPA to show Guardian headlines | Vanilla JS, no frameworks | [Github](https://github.com/tc1316/news-summary-challenge) |
-| **MakersBnB**| AirBnb clone | Ruby, Sinatra, RSpec-Capybara, PostgreSQL | [Github](https://github.com/tc1316/news-summary-challenge) |
+| **MakersBnB**| AirBnb clone | Ruby, Sinatra, RSpec-Capybara, PostgreSQL | [Github](https://github.com/Inimesh/airbnb_clone) |
 | **Bowlingcard Scorer**| Bowling scorecard | Vanilla JS (to be completed) | [Github](https://github.com/tc1316/bowling-challenge) |
 | **Advent of Code 2021**| Increasingly difficult algorithmic puzzles| Python | [Github](https://github.com/tc1316/advent_of_code_2021) |
 

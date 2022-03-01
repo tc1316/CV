@@ -21,17 +21,15 @@ Aspiring junior developer, looking for an opportunity to learn, develop and appl
 **Suade Labs** (March 2021 - November 2021)  
 _Support Engineer_
 
-- Served as the conduit between clients and the engineering teams by 
-understanding, interpreting and relaying client requests to relevant stakeholders 
-- Built up product knowledge by studying the Python code base, allowing me to handle a range of client queries efficiently e.g. data mapping, system errors, regulatory questions and user feedback
-- Delivered production code in a timely and successful manner
-as per client deadlines and business objectives
-- Contribute and communicate technical knowledge to business-side
-clients during consultations and presentations
+- Served as the firstrst line of defense regarding client issues/feature requests, and performed information gathering and
+translating core needs to relevant stakeholders in the engineering, development or infrastructural teams
+- Built up a knowledge of the product code base (Python), allowing me to handle queries pertaining to data
+mapping, system errors, regulatory details, etc.
+- Delivered production code in a timely manner as per client deadlines and business objectives via Gitlab/Ansible
+- Conveyed technical details to clients during consultations, presentations and troubleshooting
+- Applied and developed understanding of agile processes, CI/CD and debugging web application
 
 
-<!-- ## Skills
- -->
 ## Languages
 - Fluent English and Mandarin speaking
 

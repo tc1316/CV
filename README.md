@@ -3,7 +3,7 @@
 Aspiring junior developer, looking for an opportunity to learn, develop and apply my software development skills
 - Recently enrolled in Makers academy. Graduated from Imperial College London with a BSc Hons in Biochemistry/Biotechnology with Management. 
 - Competency in JS, Ruby and Python
-- Trying to learn C++
+- Trying to learn C++/Go
 
 ## Projects
 
